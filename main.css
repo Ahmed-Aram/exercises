@@ -1,0 +1,146 @@
+.back-image{
+    background-image: url(images/laptop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color:black ; 
+    padding: 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.we{
+    color: white;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+a:hover{
+    background-color: #a89f9f;
+}
+.UNIT{
+    text-align: center;
+}
+hr{
+    border: none; 
+    height: 2px; 
+    background-color: rgb(111, 218, 182); 
+    width: 350px;
+}
+div{
+    text-align: center;
+    color: white;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    border: solid 1px rgb(111, 218, 182) ;
+    padding: 4px;
+}
+.amk{
+    background-color: rgb(201, 198, 198);
+    padding: 10px;
+}
+.title{
+    color: black;
+}
+.body{
+    color: black;
+}
+.image{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ahmed{
+    color: black;
+    position: absolute;
+    left: 260px;
+    top:940px;
+}
+.ali{
+    color: black;
+    position: absolute;
+    top: 970px;
+    left: 230px;
+}
+.comp{
+    color: black;
+    position: absolute;
+    top: 940px;
+}
+.lap{
+    color: black;
+    position: absolute;
+    top: 970px;
+}
+.red{
+    color: black;
+    position: absolute;
+    top: 940px;
+    right: 285px;
+}
+.green{
+    color: black;
+    position: absolute;
+    top: 970px;
+    right: 220px;
+}
+.case{
+    color: mohamed;
+}
+.photo{
+    display:flex;
+    flex-wrap:wrap ;
+    gap: 50px;
+    justify-content:center;
+}
+.login{
+    background-image: url(images/image\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+table{
+    display: flex;
+    justify-content: center;  
+}
+input{
+    width: 500px;
+    background-color: transparent;
+    color: white;
+    
+}
+textarea{
+    width: 500px;
+    background-color: transparent;
+    color: white;
+}
+.mohamed{
+    position: absolute;
+    top: 2030px;
+    left: 300px;
+}
+.mostafa{
+    position: absolute;
+    top: 2010px;
+    left: 580px;
+}
+button{
+    background-color: transparent;
+    border: solid rgb(111, 218, 182) ;
+    padding: 5px 30px;
+    color: white;
+    position: absolute;
+    top: 2025px;
+    right: 600px;
+}
+button:hover{
+    background-color: aqua;
+}
